@@ -1,2 +1,2 @@
 # ILQR
-implementation of ILQR algo on cart pole system\
+implementation of ILQR algo on cart pole system
